@@ -1,0 +1,24 @@
+.cardos {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	flex-wrap: wrap;
+	margin-right: 10%;
+	margin-left: 10%;
+}
+
+.card {
+	margin-top: 5%;
+}
+
+.col-sm {
+	text-align: center;
+}
+
+#footer {
+	margin-top: 5%;
+}
+
+.card-body .btn.btn-primary {
+	width: 100%;
+}
